@@ -1,6 +1,9 @@
 # IceCream Sales Analysis
 
-Anyone who is sugar tolerant wants the cold-sweet feel of ice cream. How it melts, flavor bursts in the mouth, and the cool feeling it gives during hot weather. Amidst this freshness, seasonality often has full control of how individuals demand or crave Ice cream. We will see this further in this post.
+Anyone who is sugar tolerant wants the cold-sweet feel of ice cream. How it melts, flavor bursts in the mouth, and the cool feeling it gives during hot weather. Amidst this freshness, seasonality often has full control of how individuals demand or crave Ice cream.
+
+### Hypothesis 
+Increase in temperature affects IceCream sales and vice versa
 
 > ### The aim of this project was to determine statistically if temperature affects IceCream sales.
 
@@ -16,7 +19,7 @@ Anyone who is sugar tolerant wants the cold-sweet feel of ice cream. How it melt
 
 ---
 ### Description
-The project focused on IceCream sales. The dataset has two variables(temperature and revenue) with 500 rows. I am to determine statistically if temperature changes affects demands for IceCream as well as revenue.
+The project focused on IceCream sales. The dataset has two variables(temperature and revenue) with 500 rows. The aim was to determine statistically if temperature changes affects demands for IceCream as well as revenue. And since correlation and causation are often mixed up because humans like to find patterns even when they do not exist, I took extra precautions to visualize the correlation. Because correlation charts that show causation can be effective.
 
 ---
 ### Technology
