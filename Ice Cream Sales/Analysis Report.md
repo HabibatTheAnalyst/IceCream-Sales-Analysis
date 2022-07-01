@@ -33,7 +33,14 @@ GoogleSheet was used to wrangle the dataset. The clean dataset was then uploaded
 
 - To answer the question about randomness, I calculated the P-value which has a value equal to zero (0.0) which is less than 0.05.
 
-<img src="https://user-images.githubusercontent.com/93320956/172592983-ac8ff921-3dc9-4b07-9126-afc30d1a36b6.png" width="300" height="300">
+```py
+# p-value
+from scipy import stats
+
+r, p = stats.pearsonr(IceCream.Temperature, IceCream.Revenue)
+print(round(r, 3))
+print(p)
+```
 
 ***
 ### Conclusion
@@ -41,4 +48,4 @@ Saying the p-value is 0% means our reults have a 0% chance of being attributed t
 
 > ### I accept the null hypothesis thereby rejecting the alternative hypothesis.
 
-Dataset - [here]('https://www.kaggle.com/datasets/vinicius150987/ice-cream-revenue')
+# [Dataset]('https://www.kaggle.com/datasets/vinicius150987/ice-cream-revenue')

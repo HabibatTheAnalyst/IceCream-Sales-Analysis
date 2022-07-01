@@ -11,9 +11,7 @@ Increase in temperature affects IceCream sales
 
 ---
 ### Table of Contents
-* [Description](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/edit/main/README.md#description)
-* [Technology](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/edit/main/README.md#technology)
-* [Findings](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/edit/main/README.md#findings)
-* [Conclusion](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/edit/main/README.md#conclusion)
-* [Recommendation](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/edit/main/README.md#recommendation)
- 
+* [Description](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/blob/main/Ice%20Cream%20Sales/Analysis%20Report.md#description)
+* [Technology](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/blob/main/Ice%20Cream%20Sales/Analysis%20Report.md#technology)
+* [Findings](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/blob/main/Ice%20Cream%20Sales/Analysis%20Report.md#findings)
+* [Conclusion](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/blob/main/Ice%20Cream%20Sales/Analysis%20Report.md#conclusion)
