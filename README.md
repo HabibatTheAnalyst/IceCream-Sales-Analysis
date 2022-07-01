@@ -16,7 +16,7 @@ Increase in temperature affects IceCream sales
 * [Findings](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/edit/main/README.md#findings)
 * [Conclusion](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/edit/main/README.md#conclusion)
 * [Recommendation](https://github.com/HabibatTheAnalyst/IceCream-Sales-Analysis/edit/main/README.md#recommendation)
-
+ 
 ---
 ### Description
 The project focused on IceCream sales. The dataset has two variables(temperature and revenue) with 500 rows. The aim was to determine statistically if temperature changes affects demands for IceCream as well as revenue.
