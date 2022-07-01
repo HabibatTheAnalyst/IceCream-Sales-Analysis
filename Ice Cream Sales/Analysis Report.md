@@ -47,5 +47,3 @@ print(p)
 Saying the p-value is 0% means our reults have a 0% chance of being attributed to random coincidence. Hence, from all the statistial results I could conclude that the data at hand supports my hypothesis. Therefore, there is a relationship between temperature and revenue and the increase in revenue is not due to randomness. 
 
 > ### I accept the null hypothesis thereby rejecting the alternative hypothesis.
-
-[Dataset]('https://www.kaggle.com/datasets/vinicius150987/ice-cream-revenue')
