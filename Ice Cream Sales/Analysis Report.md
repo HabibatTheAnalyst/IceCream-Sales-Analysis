@@ -1,7 +1,7 @@
 # Report
 
 ### Description
-The project focused on IceCream sales. The dataset has two variables(temperature and revenue) with 500 rows. The aim was to determine statistically if temperature changes affects demands for IceCream as well as revenue.
+The project focused on IceCream sales. The dataset has two variables(temperature and revenue) and the aim was to determine statistically if temperature changes affects demands for IceCream and total revenue.
 
 ***
 ### Technology
@@ -11,7 +11,7 @@ The project focused on IceCream sales. The dataset has two variables(temperature
 
 ***
 #### steps
-GoogleSheet was used to wrangle the dataset. The clean dataset was then uploaded to jupyter notebook through command prompt. The data was loaded and statistical measures such as P-value and correlation were applied to derive at a the conclusion.
+GoogleSheet was used to wrangle the dataset. The clean dataset was then uploaded to jupyter notebook for analysis. The data was loaded and statistical measures such as P-value and correlation were applied to derive at a the conclusion.
 
 ***
 ### Findings
