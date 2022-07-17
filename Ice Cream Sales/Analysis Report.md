@@ -5,13 +5,13 @@ The project focused on IceCream sales. The dataset has two variables(temperature
 
 ***
 ### Technology
-* GoogleSheet
-* Python
+* Google Sheet
+* Jupyter Notebook
 * Statistical measures
 
 ***
-#### steps
-GoogleSheet was used to wrangle the dataset. The clean dataset was then uploaded to jupyter notebook for analysis. The data was loaded and statistical measures such as P-value and correlation were applied to derive at a the conclusion.
+### Steps
+Google Sheet was used to wrangle the dataset. The clean dataset was then uploaded to jupyter notebook for analysis. The data was loaded and statistical measures such as P-value and correlation were applied to derive at a the conclusion.
 
 ***
 ### Findings
