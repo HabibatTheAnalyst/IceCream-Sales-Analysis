@@ -1,6 +1,6 @@
 # IceCream Sales Analysis
  
-Anyone who is sugar tolerant wants the cold-sweet feel of ice cream. How it melts, flavor bursts in the mouth, and the cool feeling it gives during hot weather. Amidst this freshness, seasonality often has full control of how individuals demand or crave Ice cream.
+Anyone who is sugar tolerant wants the cold-sweet feel of ice cream. How it melts, flavor bursts, and the cool feeling it gives during hot weather. Amidst this freshness, seasonality often has full control of how individuals demand or crave Ice cream.
 
 ### Hypothesis
 Increase in temperature affects IceCream sales
