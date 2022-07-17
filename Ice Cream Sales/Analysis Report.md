@@ -71,7 +71,3 @@ print(p)
 ***
 ### Conclusion
 Saying the p-value is 0% means our reults have a 0% chance of being attributed to random coincidence. Hence, from all the statistial results I could conclude that the data at hand supports my hypothesis. Therefore, there is a relationship between temperature and revenue and the increase in revenue is not due to randomness.
-
-***
-### Dashboard
-<img src="C:\Users\HP\Desktop\CVE\IceCream Dashboard.jpg" width="500" height="400">
